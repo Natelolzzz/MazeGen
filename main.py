@@ -32,7 +32,7 @@ def generate_maze(width, height):
   return maze
 
 # Generate a 10x10 maze
-maze = generate_maze(15, 15)
+maze = generate_maze(10, 10)
 
 # Print the maze
 for y in range(10):
